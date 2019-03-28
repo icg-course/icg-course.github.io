@@ -2,5 +2,5 @@
 
 ## 2019
 
-* Салова Наталья ([1](https://icg-course.github.io/r144yh/1/))
+* Салова Наталья ([1](https://icg-course.github.io/2019/r144yh/1/))
 
