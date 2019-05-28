@@ -8,3 +8,4 @@
 * Нагорных Максим ([1](https://icg-course.github.io/2019/Maxo0on/1/), [4](https://icg-course.github.io/2019/Maxo0on/4/), [5](https://icg-course.github.io/2019/Maxo0on/5/))
 * Антипова Алена ([3](https://icg-course.github.io/2019/LadyHelen/3/), [4](https://icg-course.github.io/2019/LadyHelen/4/), [5](https://icg-course.github.io/2019/LadyHelen/5/))
 * Гаврилов Александр ([4](https://icg-course.github.io/2019/SachaGavr/4/))
+* Дук Герман ([5](https://icg-course.github.io/2019/Fynduk/5/))
