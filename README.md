@@ -9,3 +9,4 @@
 * Антипова Алена ([3](https://icg-course.github.io/2019/LadyHelen/3/), [4](https://icg-course.github.io/2019/LadyHelen/4/), [5](https://icg-course.github.io/2019/LadyHelen/5/))
 * Гаврилов Александр ([4](https://icg-course.github.io/2019/SachaGavr/4/))
 * Дук Герман ([5](https://icg-course.github.io/2019/Fynduk/5/))
+* Твардовский Георгий ([5](https://icg-course.github.io/2019/gtvardovsky/5/))
