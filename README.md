@@ -15,3 +15,4 @@
 * Степанов Сергей ([5](https://icg-course.github.io/2019/stserezha/5/))
 * Щенников Глеб ([3](https://icg-course.github.io/2019/glebasos/3/), [4](https://icg-course.github.io/2019/glebasos/4/))
 * Нестеров Иван ([5](https://icg-course.github.io/2019/b4r4b4n/5/))
+* Марьинский Руслан ([4](https://icg-course.github.io/2019/LookAtMePls/4/))
