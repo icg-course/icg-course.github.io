@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8" />
+  <title>Качалка</title>
+  <link rel="stylesheet" href="https://www.x3dom.org/download/1.7.2/x3dom.css" />
+  <script src="https://www.x3dom.org/download/1.7.2/x3dom-full.js"></script>
+  <link rel="stylesheet" href="../css/custom.css" />
+  <script src="../js/custom.js"></script>
+</head>
+<body>
+	<script src="train.js"></script>
+	<button id='BodyScale'> Покачать торс </button>
+  	<button id='HandScale'> Качаем руки </button>
+  	<button id='LegsScale'> Качаем ноги </button>
+  	<button id='FaceScale'> Почитать книжку </button>
+    <h1>________________________Лабораторная № 5_______________________</h1>
+    <X3D style="width:1024px; height:768px" id="x3d" xmlns="https://www.x3dom.org/x3dom">
+    	<Scene>
+    		<!--фон-->
+    		<Background backUrl="качалка.jpg"></Background>
+
+    		<!--начальное положение-->
+    		<Viewpoint position="0 0 18" orientation="0 0 0 0" ></Viewpoint>
+
+    		<!--Звук-->
+    		<Sound> 
+				<AudioClip url='воттаквот.mp3' loop='true' enabled='true'> 
+				</AudioClip>
+			</Sound>
+
+    		<!--Поляна-->
+      		<Transform translation="0 -5 0">
+				<Shape>
+					<Appearance>
+						<ImageTexture url=".\пол.jpg">
+							<Material ></Material>
+						</ImageTexture>
+					</Appearance>					
+					<Box size="100 0.2 100">
+					</Box>
+				</Shape> 
+			</Transform>
+
+      		<!--лицо -->
+			<Transform id="Face" scale='1 1 1' translation='1 1 1'>
+				<Shape>
+					<Appearance>
+						<ImageTexture url=".\lico.jpg">
+							<Material></Material>
+						</ImageTexture>
+					</Appearance>
+					<Sphere  radius='0.5'></Sphere>
+				</Shape>
+			</Transform> 
+
+			<!--тело-->
+			<Transform  id="Body" scale='1 1 1' translation="1 -1 1">
+				<Shape>
+					<Appearance>
+						<ImageTexture url=".\cama.jpg">
+							<Material ></Material>
+						</ImageTexture>
+					</Appearance>
+					<Box size="2 3 0.5">
+					</Box>
+				</Shape>
+			</Transform>
+			<Transform id="Hand" scale = "1 1 1">
+				<!--рука1 -->
+				<Transform id="LHand" translation="3 0.3 1" rotation="0 0 1 1.57" scale = '1 1 1'>
+					<Shape>
+						<Appearance>
+							<ImageTexture url=".\cama.jpg">
+								<Material ></Material>
+							</ImageTexture>
+						</Appearance>
+						<Cylinder height='2' radius='0.2'></Cylinder>
+					</Shape>
+				</Transform> 
+
+				<!--рука2 -->
+				<Transform id="RHand" rotation="0 0 1 1.57" translation="-1 0.3 1" scale = '1 1 1'>
+					<Shape>
+						<Appearance>
+							<ImageTexture url=".\cama.jpg">
+								<Material ></Material>
+							</ImageTexture>
+						</Appearance>
+						<Cylinder height='2' radius='0.2'></Cylinder>
+					</Shape>
+				</Transform> 
+			</Transform>
+
+			<!--ладошка1 -->
+			<Transform id="LFist" translation="4.1 0.3 1">
+				<Shape>
+					<Appearance>
+						<ImageTexture url=".\ladogka.jpg">
+							<Material></Material>
+						</ImageTexture>
+					</Appearance>
+						<Sphere  radius='0.2'></Sphere>
+				</Shape>
+				</Transform>
+			<!--ладошка2 -->
+			<Transform id="RFist" translation="-2.1 0.3 1">
+			<Shape>
+				<Appearance>
+					<ImageTexture url=".\ladogka.jpg">
+						<Material></Material>
+					</ImageTexture>
+				</Appearance>
+					<Sphere  radius='0.2'></Sphere>
+			</Shape>
+			</Transform>
+			<Transform id="Legs" scale="1 1 1">
+				<!--нога1-->
+				<Transform id="LLeg" scale="1 1 1" translation="1.7 -3.5 1">
+					<Shape>
+						<Appearance>
+							<ImageTexture url=".\djinsy.jpg">
+								<Material ></Material>
+							</ImageTexture>
+						</Appearance>
+						<Box size="0.3 2 0.3">
+						</Box>
+					</Shape>
+				</Transform>
+				<!--нога2-->
+				<Transform id="RLeg" scale="1 1 1" translation="0.5 -3.5 1">
+					<Shape>
+						<Appearance>
+							<ImageTexture url=".\djinsy.jpg">
+								<Material ></Material>
+							</ImageTexture>
+						</Appearance>
+						<Box size="0.3 2 0.3">
+						</Box>
+					</Shape>
+				</Transform>
+			</Transform>
+
+			<!--ступня1-->
+			<Transform rotation="1 0 0 1.57" translation="1.7 -4.7 1.2">
+				<Shape>
+					<Appearance>
+						<ImageTexture url=".\boty.jpg">
+							<Material ></Material>
+						</ImageTexture>
+					</Appearance>
+					<Cylinder height='0.6' radius='0.25'></Cylinder>
+				</Shape>
+			</Transform> 
+			<!--ступня2-->
+			<Transform rotation="1 0 0 1.57" translation="0.5 -4.7 1.2">
+				<Shape>
+					<Appearance>
+						<ImageTexture url=".\boty.jpg">
+							<Material ></Material>
+						</ImageTexture>
+					</Appearance>
+					<Cylinder height='0.6' radius='0.25'></Cylinder>
+				</Shape>
+			</Transform> 
+    	</Scene>
+	</X3D>
+
+</body>
+</html>
