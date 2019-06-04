@@ -10,6 +10,7 @@
 * Гаврилов Александр ([4](https://icg-course.github.io/2019/SachaGavr/4/))
 * Дук Герман ([5](https://icg-course.github.io/2019/Fynduk/5/))
 * Твардовский Георгий ([5](https://icg-course.github.io/2019/gtvardovsky/5/))
+* Иванов Алексей ([4](https://icg-course.github.io/2019/wulf97/4/))
 * Тарнавская Виктория ([5](https://icg-course.github.io/2019/odrimma/5/))
 * Степанов Сергей ([5](https://icg-course.github.io/2019/stserezha/5/))
-
+* Щенников Глеб ([3](https://icg-course.github.io/2019/glebasos/3/), [4](https://icg-course.github.io/2019/glebasos/4/))
