@@ -13,6 +13,7 @@
 * Иванов Алексей ([4](https://icg-course.github.io/2019/wulf97/4/))
 * Тарнавская Виктория ([5](https://icg-course.github.io/2019/odrimma/5/))
 * Степанов Сергей ([5](https://icg-course.github.io/2019/stserezha/5/))
+* Шаранда Андрей ([5](https://icg-course.github.io/2019/azzimandias/5/))
 * Павлов Михаил ([1](https://icg-course.github.io/2019/mihalichpalich/1/), [3](https://icg-course.github.io/2019/mihalichpalich/3/))
 * Щенников Глеб ([3](https://icg-course.github.io/2019/glebasos/3/), [4](https://icg-course.github.io/2019/glebasos/4/))
 * Нестеров Иван ([5](https://icg-course.github.io/2019/b4r4b4n/5/))
