@@ -2,7 +2,7 @@
 
 ## 2019
 
-* Салова Наталья ([1](https://icg-course.github.io/r144yh/1/),[4](https://icg-course.github.io/r144yh/4/),[5](https://icg-course.github.io/r144yh/5/))
+* Салова Наталья ([1](https://icg-course.github.io/r144yh/1/), [4](https://icg-course.github.io/r144yh/4/), [5](https://icg-course.github.io/r144yh/5/))
 * Рябов Владислав ([4](https://icg-course.github.io/2019/vladkex/4/), [5](https://icg-course.github.io/2019/vladkex/5/))
 * Антонов Александр ([5](https://icg-course.github.io/2019/Persia39/5/))
 * Нагорных Максим ([1](https://icg-course.github.io/2019/Maxo0on/1/), [4](https://icg-course.github.io/2019/Maxo0on/4/), [5](https://icg-course.github.io/2019/Maxo0on/5/))
@@ -17,4 +17,5 @@
 * Щенников Глеб ([3](https://icg-course.github.io/2019/glebasos/3/), [4](https://icg-course.github.io/2019/glebasos/4/))
 * Мустафин Тимур ([4](https://icg-course.github.io/2019/TMust98/5/))
 * Марьинский Руслан ([4](https://icg-course.github.io/2019/LookAtMePls/4/))
+* Литовченко Кирилл ([1](https://icg-course.github.io/2019/resfakchion/1/), [5](https://icg-course.github.io/2019/resfakchion/5/))
 * Голиков Александр ([5](https://icg-course.github.io/2019/oAlexandro/5/))
