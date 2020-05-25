@@ -2,6 +2,7 @@
 
 ## 2020
 
+* Филиппов Иван ([1](https://icg-course.github.io/2020/PhiIIson/1/), [2](https://icg-course.github.io/2020/PhiIIson/2/), [5](https://icg-course.github.io/2020/PhiIIson/5/))
 * Поляков Дмитрий ([5](https://icg-course.github.io/2020/polyakov/5/))
 
 ## 2019
