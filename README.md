@@ -3,6 +3,7 @@
 ## 2020
 
 * Поляков Дмитрий ([5](https://icg-course.github.io/2020/polyakov/5/))
+* Салихов Ахмед ([5](https://icg-course.github.io/2020/Salikhov/5/))
 
 ## 2019
 
