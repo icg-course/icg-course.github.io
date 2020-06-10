@@ -3,6 +3,7 @@
 ## 2020
 
 * Поляков Дмитрий ([5](https://icg-course.github.io/2020/polyakov/5/))
+* Михайличенко Виталий ([5](https://icg-course.github.io/2020/1k1ru/5/))
 * Цымбалюк Александр ([5](https://icg-course.github.io/2020/Night-Box/5/))
 
 ## 2019
