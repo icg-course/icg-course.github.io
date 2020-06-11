@@ -8,7 +8,7 @@
 * Михайличенко Виталий ([5](https://icg-course.github.io/2020/1k1ru/5/))
 * Цымбалюк Александр ([5](https://icg-course.github.io/2020/Night-Box/5/))
 * Федорий Дмитрий ([5](https://icg-course.github.io/2020/Fedoriy/5/))
-*Троценко Юлия ([5](https://icg-course.github.io/2020/JuliaTrotsenko/5/))
+* Троценко Юлия ([5](https://icg-course.github.io/2020/JuliaTrotsenko/5/))
 
 ## 2019
 
