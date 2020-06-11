@@ -2,6 +2,7 @@
 
 ## 2020
 
+* Филиппов Иван ([1](https://icg-course.github.io/2020/PhiIIson/1/), [2](https://icg-course.github.io/2020/PhiIIson/2/), [5](https://icg-course.github.io/2020/PhiIIson/5/))
 * Бойков Олег ([1](https://icg-course.github.io/2020/boikov/1/), [3](https://icg-course.github.io/2020/boikov/3/), [5](https://icg-course.github.io/2020/boikov/5/))
 * Поляков Дмитрий ([5](https://icg-course.github.io/2020/polyakov/5/))
 * Салихов Ахмед ([5](https://icg-course.github.io/2020/Salikhov/5/))
@@ -9,6 +10,10 @@
 * Цымбалюк Александр ([5](https://icg-course.github.io/2020/Night-Box/5/))
 * Федорий Дмитрий ([5](https://icg-course.github.io/2020/Fedoriy/5/))
 * Троценко Юлия ([5](https://icg-course.github.io/2020/JuliaTrotsenko/5/))
+* Якушев Георгий ([5](https://icg-course.github.io/2020/yakushev42/5/))
+* Кучеровская Олеся ([5](https://icg-course.github.io/2020/kucherovskaia/5/))
+* Ермолин Павел ([5](https://icg-course.github.io/2020/ErmPav/5/))
+* Горин Никита ([5](https://icg-course.github.io/2020/Gorin/5/))
 
 ## 2019
 
