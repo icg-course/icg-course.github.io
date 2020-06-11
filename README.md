@@ -1,7 +1,7 @@
 # Каталог работ
 
 ## 2020
-
+* Петров Егор ([5](https://icg-course.github.io/2020/egokorok/5/))
 * Филиппов Иван ([1](https://icg-course.github.io/2020/PhiIIson/1/), [2](https://icg-course.github.io/2020/PhiIIson/2/), [5](https://icg-course.github.io/2020/PhiIIson/5/))
 * Бойков Олег ([1](https://icg-course.github.io/2020/boikov/1/), [3](https://icg-course.github.io/2020/boikov/3/), [5](https://icg-course.github.io/2020/boikov/5/))
 * Поляков Дмитрий ([5](https://icg-course.github.io/2020/polyakov/5/))
