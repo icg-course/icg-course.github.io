@@ -13,6 +13,7 @@
 * Кучеровская Олеся ([5](https://icg-course.github.io/2020/kucherovskaia/5/))
 * Ермолин Павел ([5](https://icg-course.github.io/2020/ErmPav/5/))
 * Горин Никита ([5](https://icg-course.github.io/2020/Gorin/5/))
+* Мацола Алексей ([5](https://icg-course.github.io/2020/Macola/5/))
 
 ## 2019
 
