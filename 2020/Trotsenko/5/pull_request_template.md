@@ -1,1 +1,0 @@
-https://ваше_имя.github.io/icg_labwork5
