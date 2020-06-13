@@ -9,14 +9,16 @@
 * Михайличенко Виталий ([5](https://icg-course.github.io/2020/1k1ru/5/))
 * Цымбалюк Александр ([5](https://icg-course.github.io/2020/Night-Box/5/))
 * Федорий Дмитрий ([5](https://icg-course.github.io/2020/Fedoriy/5/))
-* Троценко Юлия ([5](https://icg-course.github.io/2020/JuliaTrotsenko/5/))
 * Якушев Георгий ([5](https://icg-course.github.io/2020/yakushev42/5/))
 * Кучеровская Олеся ([5](https://icg-course.github.io/2020/kucherovskaia/5/))
 * Ермолин Павел ([5](https://icg-course.github.io/2020/ErmPav/5/))
 * Горин Никита ([5](https://icg-course.github.io/2020/Gorin/5/))
+* Мацола Алексей ([5](https://icg-course.github.io/2020/Macola/5/))
 * Артамонов Леонид ([5](https://icg-course.github.io/2020/AkagePiero/5/))
 * Новосвит Андрей ([5](https://icg-course.github.io/2020/Knowasweet/5/))
 * Жабченко Анастасия ([5](https://icg-course.github.io/2020/Nastya4743/5/))
+* Петров Егор ([5](https://icg-course.github.io/2020/egokorok/5/))
+* Троценко Юлия ([5](https://icg-course.github.io/2020/JuliaTrotsenko/5/))
 
 ## 2019
 
