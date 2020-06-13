@@ -19,6 +19,7 @@
 * Жабченко Анастасия ([5](https://icg-course.github.io/2020/Nastya4743/5/))
 * Петров Егор ([5](https://icg-course.github.io/2020/egokorok/5/))
 * Троценко Юлия ([5](https://icg-course.github.io/2020/JuliaTrotsenko/5/))
+* Куликов Дмитрий ([5](https://icg-course.github.io/2020/KulikovDM/5/))
 
 ## 2019
 
