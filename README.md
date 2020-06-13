@@ -17,6 +17,7 @@
 * Артамонов Леонид ([5](https://icg-course.github.io/2020/AkagePiero/5/))
 * Новосвит Андрей ([5](https://icg-course.github.io/2020/Knowasweet/5/))
 * Петров Егор ([5](https://icg-course.github.io/2020/egokorok/5/))
+* Троценко Юлия ([5](https://icg-course.github.io/2020/JuliaTrotsenko/5/))
 
 ## 2019
 
