@@ -16,7 +16,6 @@
 * Горин Никита ([5](https://icg-course.github.io/2020/Gorin/5/))
 * Артамонов Леонид ([5](https://icg-course.github.io/2020/AkagePiero/5/))
 * Новосвит Андрей ([5](https://icg-course.github.io/2020/Knowasweet/5/))
-* Петров Егор ([5](https://icg-course.github.io/2020/egokorok/5/))
 
 ## 2019
 
