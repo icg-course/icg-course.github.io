@@ -1,5 +1,8 @@
 # Каталог работ
 
+## 2021
+* Запрудский Ярослав ([5](https://icg-course.github.io/2021/slavoyar/5/))
+
 ## 2020
 
 * Филиппов Иван ([1](https://icg-course.github.io/2020/PhiIIson/1/), [2](https://icg-course.github.io/2020/PhiIIson/2/), [5](https://icg-course.github.io/2020/PhiIIson/5/))
