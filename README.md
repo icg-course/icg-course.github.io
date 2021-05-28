@@ -4,6 +4,7 @@
 
 * Шевелин Евгений ([5](https://icg-course.github.io/2021/Coercivity/5/))
 * Запрудский Ярослав ([5](https://icg-course.github.io/2021/slavoyar/5/))
+* Покидов Антон ([5](2021/kayran/5/))
 
 ## 2020
 
