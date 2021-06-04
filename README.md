@@ -6,6 +6,7 @@
 * Шевелин Евгений ([5](https://icg-course.github.io/2021/Coercivity/5/))
 * Бугаенко Данил ([5](https://icg-course.github.io/2021/Dan9sd/5/))
 * Запрудский Ярослав ([5](https://icg-course.github.io/2021/slavoyar/5/))
+* Перевалкина Екатерина ([5](https://icg-course.github.io/2021/perevall/5/))
 * Прокопьева Софья ([5](https://icg-course.github.io/2021/SonyaProkopeva/5/))
 * Холбаева Элина ([2](https://icg-course.github.io/2021/HolbaevaElina/2/), [5](https://icg-course.github.io/2021/HolbaevaElina/5/))
 * Волкова Полина ([5](https://icg-course.github.io/2021/skukota/5/))
