@@ -8,6 +8,7 @@
 * Запрудский Ярослав ([5](https://icg-course.github.io/2021/slavoyar/5/))
 * Холбаева Элина ([2](https://icg-course.github.io/2021/HolbaevaElina/2/), [5](https://icg-course.github.io/2021/HolbaevaElina/5/))
 * Волкова Полина ([5](https://icg-course.github.io/2021/skukota/5/))
+* Артемьев Илья ([5](https://icg-course.github.io/2021/Artemev/5/))
 * Ганиев Тимур ([5](https://icg-course.github.io/2021/timur505/5/))
 * Веселовский Марк ([5](https://icg-course.github.io/2021/markus696/5/))
 * Покидов Антон ([5](https://icg-course.github.io/2021/p3n3k/5/))
