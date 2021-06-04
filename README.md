@@ -19,6 +19,7 @@
 * Габсатарова Амина ([1](https://icg-course.github.io/2021/amisha777/1/))
 * Шулындин Павел ([5](https://icg-course.github.io/2021/PavelShulindin/5/))
 * Лёгкий Владимир ([5](https://icg-course.github.io/2021/Vladimir-Legkii/5))
+* Паршин Никита ([5](https://icg-course.github.io/2021/pnv0711/5))
 
 ## 2020
 
