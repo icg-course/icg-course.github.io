@@ -20,6 +20,7 @@
 * Головнин Павел ([5](https://icg-course.github.io/2021/originalsaapool/5/))
 * Шулындин Павел ([5](https://icg-course.github.io/2021/PavelShulindin/5/))
 * Лёгкий Владимир ([5](https://icg-course.github.io/2021/Vladimir-Legkii/5/))
+* Ларченков Дмитрий ([5](https://icg-course.github.io/2021/LarchenkovDmitry/5/))
 
 ## 2020
 
