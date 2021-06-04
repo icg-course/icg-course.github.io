@@ -15,8 +15,7 @@
 * Залищук Александр ([5](https://icg-course.github.io/2021/jerrehy/5/))
 * Габсатарова Амина ([1](https://icg-course.github.io/2021/amisha777/1/))
 * Шулындин Павел ([5](https://icg-course.github.io/2021/PavelShulindin/5/))
-
-* Лёгкий Владимир ([5](https://vladimir-legkii.github.io/icg_labwork5))
+* Лёгкий Владимир ([5](https://icg-course.github.io/2021/Vladimir-Legkii/5))
 
 ## 2020
 
