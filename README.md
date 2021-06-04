@@ -2,11 +2,19 @@
 
 ## 2021
 
+* Жданович Дмитрий ([5](https://icg-course.github.io/2021/DImasss-ik/5/))
 * Шевелин Евгений ([5](https://icg-course.github.io/2021/Coercivity/5/))
+* Бугаенко Данил ([5](https://icg-course.github.io/2021/Dan9sd/5/))
 * Запрудский Ярослав ([5](https://icg-course.github.io/2021/slavoyar/5/))
+* Холбаева Элина ([2](https://icg-course.github.io/2021/HolbaevaElina/2/), [5](https://icg-course.github.io/2021/HolbaevaElina/5/))
 * Волкова Полина ([5](https://icg-course.github.io/2021/skukota/5/))
-* Покидов Антон ([5](https://p3n3k.github.io/icg_labwork5))
 * Артемьев Илья ([5](https://icg-course.github.io/2021/Artemev/5/))
+* Ганиев Тимур ([5](https://icg-course.github.io/2021/timur505/5/))
+* Веселовский Марк ([5](https://icg-course.github.io/2021/markus696/5/))
+* Покидов Антон ([5](https://icg-course.github.io/2021/p3n3k/5/))
+* Залищук Александр ([5](https://icg-course.github.io/2021/jerrehy/5/))
+* Габсатарова Амина ([1](https://icg-course.github.io/2021/amisha777/1/))
+* Шулындин Павел ([5](https://icg-course.github.io/2021/PavelShulindin/5/))
 
 ## 2020
 

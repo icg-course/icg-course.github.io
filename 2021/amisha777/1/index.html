@@ -1,0 +1,523 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>  
+    <meta charset="utf-8" />
+    <!--[if IE]><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+    <title>Лабораторная работа 1</title>
+    <link rel="stylesheet" href="https://www.x3dom.org/download/x3dom.css"/>
+    <script src="https://www.x3dom.org/download/x3dom.js"></script>
+  </head>
+
+  <body
+    style='width:100%; height:100%; border:0; margin:0; padding:0; background: url("scene2.jpg"); background-position: center;'>
+  
+    <X3D width="100vw" height="100vh">
+      <Scene>
+    <!-- фортепьяна-->
+    <!-- основа-->
+        <Transform translation="-1 0 -0.25">
+        <Shape>
+          <Appearance>
+            <ImageTexture url="tree.jpg"></ImageTexture>
+            <Material specularColor="0.02 0.02 0.02"></Material>
+          </Appearance>
+          <Box size="9.5 10 3.5"></Box>
+        </Shape>
+        </Transform>
+
+        <!-- верхняя часть-->
+        <Transform translation="-1 5 -0.2">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Box size="10.5 0.5 4.5"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- подставка клавиатуры-->
+        <Transform translation="-1 -0.5 2.5">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+             <Box size="9.5 0.5 2"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- клавиши-->
+        <Transform translation="-1 -0.13 3">
+          <Shape>
+             <Appearance>
+              <TextureTransform scale="6 1"></TextureTransform>
+              <ImageTexture url="kl1.jpg"></ImageTexture>
+            </Appearance>
+             <Box size="8.5 0.25 1"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- клавиши снизу-->
+        <Transform translation="-1 -0.13 3.5" rotation="1 0 0 1.57">
+          <Shape>
+             <Appearance>
+              <TextureTransform scale="6 1"></TextureTransform>
+              <ImageTexture url="kl3.jpg"></ImageTexture>
+            </Appearance>
+             <Box size="8.5 0.01 0.25"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- бокс сзади клавиатуры-->
+        <Transform translation="-1 0 2">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Box size="9.5 0.5 1"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- основание-->
+        <Transform translation="-1 -5.25 -0.25">
+          <Shape>
+              <Appearance>
+                <ImageTexture url="black.jpg"></ImageTexture>
+                <Material specularColor="0.02 0.02 0.02"></Material>
+              </Appearance>
+              <Box size="9 0.5 3.5"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- основание правая ножка-->
+        <Transform translation="3.5 -5.25 0.75" rotation="0 1 0 1.57">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Box size="5.5 0.5 0.5"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- основание левая ножка-->
+        <Transform translation="-5.5 -5.25 0.75" rotation="0 1 0 1.57">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+             <Box solid="false" size="5.5 0.5 0.5"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- левая ножка-->
+        <Transform translation="-5.5 -2.85 2.5" rotation="0 0 1 1.57">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Box solid="false" size="4.3 0.5 0.5"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- правая ножка-->
+        <Transform translation="3.5 -2.85 2.5" rotation="0 0 1 1.57">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Box size="4.3 0.5 0.5"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- левый кубик на клавиатуре-->
+        <Transform translation="3.5 0 3" rotation="0 1 0 1.57">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Box size="1 0.5 0.5"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- правый кубик на клавиатуре-->
+        <Transform translation="-5.5 0 3" rotation="0 1 0 1.57">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Box size="1 0.5 0.5"></Box>
+          </Shape>
+        </Transform>
+
+         <!-- крышка-->
+        <Transform translation="-1 1 2" rotation="1 0 0 -0.44">
+          <Shape>
+              <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+              </Appearance>
+              <Box size="9.5 1.5 0.25"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- педаль правая-->
+        <Transform translation="-1.6 -5.3 1.8" rotation="1 0 0 1.57">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="ped.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+             <Box size="0.3 0.7 0.1"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- педаль левая-->
+        <Transform translation="-0.4 -5.3 1.8" rotation="1 0 0 1.57">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="ped.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+             <Box size="0.3 0.7 0.1"></Box>
+          </Shape>
+        </Transform>
+        <!-- конец фортепиано-->
+
+        
+        <!-- стул 1-->
+        <!-- левая ножка стула-->
+        <Transform translation="-1.9 -2.75 7" rotation="0 0 1 1.57">
+          <Shape>
+            <Appearance>
+              <Material diffuseColor="#660000"> </Material>
+            </Appearance>
+             <Box size="5 0.3 0.3"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- правая ножка стула-->
+        <Transform translation="0.3 -2.75 7" rotation="0 0 1 1.57">
+          <Shape>
+            <Appearance>
+              <Material diffuseColor="#660000"> </Material>
+            </Appearance>
+             <Box size="5 0.3 0.3"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- правая ближняя к фоно ножка стула-->
+        <Transform translation="0.3 -4 5" rotation="0 0 1 1.57">
+          <Shape>
+            <Appearance>
+              <Material diffuseColor="#660000"> </Material>
+            </Appearance>
+             <Box size="2.5 0.3 0.3"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- левая ближняя к фоно ножка стула-->
+        <Transform translation="-1.9 -4 5" rotation="0 0 1 1.57">
+          <Shape>
+            <Appearance>
+              <Material diffuseColor="#660000"> </Material>
+            </Appearance>
+             <Box size="2.5 0.3 0.3"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- сиденье-->
+        <Transform translation="-0.8 -2.7 5.75" >
+          <Shape>
+            <Appearance>
+              <Material diffuseColor="#660000"> </Material>
+            </Appearance>
+             <Box size="2.5 0.3 2.2"></Box>
+          </Shape>
+        </Transform>
+
+        <!-- спинка-->
+        <Transform translation="-0.8 -0.8 7" rotation="1 0 0 1.57">
+          <Shape>
+            <Appearance>
+              <Material diffuseColor="#660000"> </Material>
+            </Appearance>
+             <Box size="2.5 0.3 1.1"></Box>
+          </Shape>
+        </Transform>
+        <!-- конец стула 1-->
+
+        <!-- стол-->
+        <!-- столешница-->
+        <Transform translation="-13 0 5" >
+          <Shape>
+            <Appearance>
+              <ImageTexture url="tree.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Cylinder height="0.4" radius="3"></Cylinder>
+          </Shape>
+        </Transform>
+
+        <!-- ножка-->
+        <Transform translation="-13 -2.5 5" rotation="0 1 0 1.57">
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Cylinder height="5" radius="0.3"></Cylinder>
+          </Shape>
+        </Transform>
+        
+        <!-- основание-->
+        <Transform translation="-13 -5 5" >
+          <Shape>
+            <Appearance>
+              <ImageTexture url="black.jpg"></ImageTexture>
+              <Material specularColor="0.02 0.02 0.02"></Material>
+            </Appearance>
+            <Cylinder height="0.2" radius="1"></Cylinder>
+          </Shape>
+        </Transform>
+        <!-- конец стола-->
+
+        <!-- стул 2-->
+        <Transform translation="-11 0 5" rotation="0 1 0 -0.79">
+        
+          <!-- это стул 1-->
+          <!-- левая ножка стула-->
+          <Transform translation="-1.9 -2.75 7" rotation="0 0 1 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+              <Box size="5 0.3 0.3"></Box>
+           </Shape>
+          </Transform>
+
+          <!-- правая ножка стула-->
+          <Transform translation="0.3 -2.75 7" rotation="0 0 1 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+              <Box size="5 0.3 0.3"></Box>
+            </Shape>
+          </Transform>
+
+          <!-- правая ближняя к фоно ножка стула-->
+          <Transform translation="0.3 -4 5" rotation="0 0 1 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+              <Box size="2.5 0.3 0.3"></Box>
+            </Shape>
+          </Transform>
+
+          <!-- левая ближняя к фоно ножка стула-->
+          <Transform translation="-1.9 -4 5" rotation="0 0 1 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+              <Box size="2.5 0.3 0.3"></Box>
+            </Shape>
+          </Transform>
+
+          <!-- сиденье-->
+          <Transform translation="-0.8 -2.7 5.75" >
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+              <Box size="2.5 0.3 2.2"></Box>
+            </Shape>
+          </Transform>
+
+          <!-- спинка-->
+          <Transform translation="-0.8 -0.8 7" rotation="1 0 0 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+              <Box size="2.5 0.3 1.1"></Box>
+            </Shape>
+          </Transform>
+        </Transform>
+        <!-- конец стула 2-->
+
+        
+        <!-- стул 3-->
+        <Transform translation="-13 0 5" rotation="0 1 0 -2.18">
+         
+          <!-- это стул 2-->  
+          <!-- левая ножка стула-->
+          <Transform translation="-1.9 -2.75 7" rotation="0 0 1 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+               <Box size="5 0.3 0.3"></Box>
+            </Shape>
+          </Transform>
+  
+  
+          <!-- правая ножка стула-->
+          <Transform translation="0.3 -2.75 7" rotation="0 0 1 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+               <Box size="5 0.3 0.3"></Box>
+            </Shape>
+          </Transform>
+  
+  
+          <!-- правая ближняя к фоно ножка стула-->
+          <Transform translation="0.3 -4 5" rotation="0 0 1 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+               <Box size="2.5 0.3 0.3"></Box>
+            </Shape>
+          </Transform>
+  
+  
+          <!-- левая ближняя к фоно ножка стула-->
+          <Transform translation="-1.9 -4 5" rotation="0 0 1 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+               <Box size="2.5 0.3 0.3"></Box>
+            </Shape>
+          </Transform>
+  
+          <!-- сиденье-->
+          <Transform translation="-0.8 -2.7 5.75" >
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+               <Box size="2.5 0.3 2.2"></Box>
+            </Shape>
+          </Transform>
+  
+          <!-- спинка-->
+          <Transform translation="-0.8 -0.8 7" rotation="1 0 0 1.57">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#660000"> </Material>
+              </Appearance>
+               <Box size="2.5 0.3 1.1"></Box>
+            </Shape>
+          </Transform>
+          
+        </Transform>
+        <!-- конец стула 3-->
+
+          <!-- ваза-->
+          <Transform translation="-13 0.5 5" rotation="1 0 0 3.14" >
+            <Shape>
+              <Appearance>
+                <ImageTexture url="vase.jpg"></ImageTexture>
+              </Appearance>
+              <Cone top="false" topRadius="0.1" bottom="false" bottomRadius="0.2" height="1" solid="false"></Cone>
+            </Shape>
+          </Transform>
+
+          <!-- цветок-->
+          <!-- ножка-->
+          <Transform translation="-13 0.5 5">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#003300"></Material>
+              </Appearance>
+              <Cylinder solid="false" height="2" radius="0.01"></Cylinder>
+            </Shape>
+          </Transform>
+
+          <!-- cерединка-->
+          <Transform translation="-13 1.5 5">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="#ffc0cb"></Material>
+              </Appearance>
+              <Sphere radius="0.06"></Sphere>
+            </Shape>
+          </Transform>
+
+          <!-- лепесток 1-->
+          <Transform translation="-13.1 1.5 5">
+            <Shape>
+              <Appearance>
+                <ImageTexture url="fl.jpg"></ImageTexture>
+              </Appearance>
+              <Cylinder solid="false" height="0.01" radius="0.1"></Cylinder>
+            </Shape>
+          </Transform>
+
+          <!-- лепесток 2-->
+          <Transform translation="-12.9 1.5 5">
+            <Shape>
+              <Appearance>
+                <ImageTexture url="fl.jpg"></ImageTexture>
+              </Appearance>
+              <Cylinder solid="false" height="0.01" radius="0.1"></Cylinder>
+            </Shape>
+          </Transform>
+
+          <!-- лепестки 3,4-->
+          <Transform translation="-18 0 -8" rotation="0 1 0 1.57">
+        
+            <!-- лепесток 1-->
+            <Transform translation="-13.1 1.5 5">
+              <Shape>
+                <Appearance>
+                  <ImageTexture url="fl.jpg"></ImageTexture>
+                </Appearance>
+                <Cylinder solid="false" height="0.01" radius="0.1"></Cylinder>
+              </Shape>
+            </Transform>
+
+            <!-- лепесток 2-->
+            <Transform translation="-12.9 1.5 5">
+              <Shape>
+                <Appearance>
+                  <ImageTexture url="fl.jpg"></ImageTexture>
+                </Appearance>
+                <Cylinder solid="false" height="0.01" radius="0.1"></Cylinder>
+              </Shape>
+            </Transform>
+          </Transform>
+          <!-- конец цветка-->
+
+          <!-- текст-->
+          <Transform translation="-16 8 0">
+            <Shape>
+              <Appearance>
+                <Material diffuseColor="660000" specularColor="0.2 0 0.2"></Material>
+              </Appearance>
+              <Text string="Амиша из гр. №4841" solid="false">
+                <FontStyle size="1" style="BOLDITALIC" family="SANS"> </FontStyle>
+              </Text>
+            </Shape>
+          </Transform>
+          <!-- конец текста-->
+
+
+      </Scene>
+    </X3D>
+
+  </body> 
+</html>
