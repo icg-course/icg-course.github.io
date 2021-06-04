@@ -2,6 +2,7 @@
 
 ## 2021
 
+* Жданович Дмитрий ([5](https://icg-course.github.io/2021/DImasss-ik/5/))
 * Шевелин Евгений ([5](https://icg-course.github.io/2021/Coercivity/5/))
 * Запрудский Ярослав ([5](https://icg-course.github.io/2021/slavoyar/5/))
 * Волкова Полина ([5](https://icg-course.github.io/2021/skukota/5/))
