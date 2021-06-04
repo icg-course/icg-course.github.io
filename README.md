@@ -5,7 +5,7 @@
 * Шевелин Евгений ([5](https://icg-course.github.io/2021/Coercivity/5/))
 * Запрудский Ярослав ([5](https://icg-course.github.io/2021/slavoyar/5/))
 * Волкова Полина ([5](https://icg-course.github.io/2021/skukota/5/))
-* Покидов Антон ([5](https://p3n3k.github.io/icg_labwork5))
+* Залищук Александр ([5](https://jerrehy.github.io/icg_labwork5/))
 
 ## 2020
 
