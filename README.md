@@ -17,8 +17,9 @@
 * Покидов Антон ([5](https://icg-course.github.io/2021/p3n3k/5/))
 * Залищук Александр ([5](https://icg-course.github.io/2021/jerrehy/5/))
 * Габсатарова Амина ([1](https://icg-course.github.io/2021/amisha777/1/))
+* Головнин Павел ([5](https://icg-course.github.io/2021/originalsaapool/5/))
 * Шулындин Павел ([5](https://icg-course.github.io/2021/PavelShulindin/5/))
-* Лёгкий Владимир ([5](https://icg-course.github.io/2021/Vladimir-Legkii/5))
+* Лёгкий Владимир ([5](https://icg-course.github.io/2021/Vladimir-Legkii/5/))
 
 ## 2020
 
