@@ -8,7 +8,7 @@
 * Волкова Полина ([5](https://icg-course.github.io/2021/skukota/5/))
 * Покидов Антон ([5](https://p3n3k.github.io/icg_labwork5))
 * Габсатарова Амина ([1](https://icg-course.github.io/2021/amisha777/1/))
-* Габсатарова Амина ([5](https://originalsaapool.github.io/icg_labwork5))
+* Головнин Павел ([5](https://icg-course.github.io/2021/originalsaapool/5/))
 
 ## 2020
 
