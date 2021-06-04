@@ -7,6 +7,8 @@
 * Волкова Полина ([5](https://icg-course.github.io/2021/skukota/5/))
 * Покидов Антон ([5](https://p3n3k.github.io/icg_labwork5))
 
+* Лёгкий Владимир ([5](https://vladimir-legkii.github.io/icg_labwork5))
+
 ## 2020
 
 * Филиппов Иван ([1](https://icg-course.github.io/2020/PhiIIson/1/), [2](https://icg-course.github.io/2020/PhiIIson/2/), [5](https://icg-course.github.io/2020/PhiIIson/5/))
