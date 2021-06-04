@@ -13,6 +13,7 @@
 * Покидов Антон ([5](https://icg-course.github.io/2021/p3n3k/5/))
 * Залищук Александр ([5](https://icg-course.github.io/2021/jerrehy/5/))
 * Габсатарова Амина ([1](https://icg-course.github.io/2021/amisha777/1/))
+* Коваль Анна ([5](https://icg-course.github.io/2021/Gingstune/5/))
 
 ## 2020
 
