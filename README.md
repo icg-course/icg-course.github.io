@@ -23,6 +23,7 @@
 * Шулындин Павел ([5](https://icg-course.github.io/2021/PavelShulindin/5/))
 * Лёгкий Владимир ([5](https://icg-course.github.io/2021/Vladimir-Legkii/5/))
 * Медведев Александр ([4](https://icg-course.github.io/2021/medvosa/4/))
+* Мартынов Владимир ([5](https://icg-course.github.io/2021/Vladimir0926/5/))
 
 ## 2020
 
