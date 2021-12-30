@@ -1,0 +1,167 @@
+ <!DOCTYPE html>
+<html lang="ru">
+  <head>  
+    <meta charset="utf-8" />
+        <title>Лабораторная работа 4</title>
+    <link rel="stylesheet" href="https://www.x3dom.org/download/x3dom.css"/>
+    <linkrel="stylesheet"href="all.css"/>
+    <script src="https://www.x3dom.org/download/x3dom.js"></script>
+  </head>
+  <body>
+    <h1>Борисов Максим Денисович В8441</h1>
+
+    <X3D style="left:0px; top:0px; width:100%; height:100%; border:none;">
+ <Scene>
+    <Viewpoint position="0 2 17"></Viewpoint>   
+    <Background backurl="https://img3.goodfon.ru/original/800x480/a/fa/kollazh-zima-snezhinka-otkrytka.jpg"></Background>
+    <DirectionalLight direction="0 2 0" intensity="0.3""></DirectionalLight>
+    <NavigationInfo avatarSize=0.25 2 2 0" type="WALK" speed="1"></NavigationInfo> 
+     
+
+<!--Новогодняя площадка-->
+<!--Экран-->
+  <Transform translation="0 2 -7" rotation= 0 0 0 0.907>
+  <Shape>
+    <Appearance>
+         <ImageTexture url="https://i.mycdn.me/i?r=AzEPZsRbOZEKgBhR0XGMT1Rkc2W3kF3jp4pPyvol2Scz16aKTM5SRkZCeTgDn6uOyic0"></ImageTexture>
+     </Appearance>
+     <box size="14 9 0.5"></box>
+ </Shape>
+</Transform>
+
+<!--Поляна-->
+    <transform translation='0 -2.5 0'>
+      <shape>
+         <appearance>
+            <imagetexture url="https://cdn.pixabay.com/photo/2017/11/09/00/07/christmas-2932077_640.jpg"></imagetexture>
+            <TextureTransform scale="2 4"></TextureTransform>
+         </appearance>
+       <IndexedFaceSet ccw="true" 
+                       colorPerVertex="true" 
+                       convex="true" 
+                       creaseAngle="0" 
+                       solid="false"
+                       coordIndex="0 1 2 3 -1">
+       <Coordinate point="7 0 7, 7 0 -7, -7 0 -7, -7 0 7"></Coordinate>
+  </IndexedFaceSet>
+ </shape>
+ </transform>
+     
+<!--Елка-->    
+ 
+        <TimeSensor DEF="Time" cycleInterval="2" loop="true"> 
+ </TimeSensor>
+ <ColorInterpolator DEF="ColInt" key="0 0.33 0.66 1"
+ keyValue="1 0 0, 0 1 0, 0 0 1, 1 0 0">
+ </ColorInterpolator>
+ <Shape>
+   <Appearance>
+    <Material DEF="Mat" diffuseColor="0 1 0"></Material>
+   </Appearance>
+      <cone height="3.5" radius="0.8"></cone>
+     </shape>
+
+ <ROUTE fromNode="Time" fromField="fraction_changed"
+ toNode="ColInt" toField="set_fraction"></ROUTE>
+ <ROUTE fromNode="ColInt" fromField="value_changed"
+ toNode="Mat" toField="set_diffuseColor"></ROUTE>
+
+
+<!--Елка ствол--> 
+ <Transform translation="0 -1.99 0">
+  <shape>
+       <Appearance>
+            <Material diffuseColor="1 1 0"></Material>
+       </Appearance>
+       <Cylinder radius="0.15" height="1"></Cylinder>
+       </Shape>
+</transform>
+
+<!--Танцующий снеговик-->
+ <Transform DEF="Snowman" translation="0 0 0" scale="1.25 1.25 1.25">
+
+ <!--Снеговик-->       
+    <Anchor url="https://yandex.ru/video/preview/?text=%D1%8E%D1%82%D1%83%D0%B1%20%D0%BF%D0%B5%D1%81%D0%B5%D0%BD%D0%BA%D0%B0%20%D0%B5%D0%BB%D0%BE%D1%87%D0%BA%D0%B0%20%D0%B7%D0%B0%D0%B6%D0%B3%D0%B8%D1%81%D1%8C%20%D0%BF%D1%80%D0%B8%D0%BA%D0%BE%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F%20%D0%B2%D0%B7%D1%80%D0%BE%D1%81%D0%BB%D0%B0%D1%8F&path=wizard&parent-reqid=1640271958305837-3211140404043987101-vla1-4661-vla-l7-balancer-8080-BAL-6324&wiz_type=vital&filmId=11347350673342120862">
+ 
+<!--Снеговик тушка низ-->
+     <Transform translation="0.3 -1.1 -4">
+       <shape>
+           <appearance DEF="MySnowman">
+                 <Material diffuseColor="0.95 0.95 0.95"></Material>
+           </appearance>
+         <Sphere radius="0.9"></Sphere>
+      </shape>
+     </Transform>
+ 
+ 
+<!--Снеговик тушка средняя-->
+    <Transform translation="0.3 0.1 -4">
+       <shape>
+           <appearance  USE="MySnowman"></appearance>
+         <Sphere radius="0.7"></Sphere>
+      </shape>
+     </Transform>
+ 
+<!--Снеговик тушка верх-->
+    <Transform translation="0.3 1.1 -4">
+       <shape>
+           <appearance  USE="MySnowman"></appearance>
+         <Sphere radius="0.5"></Sphere>
+      </shape>
+     </Transform>
+ 
+ 
+<!--Глаза снеговика-->
+        <Transform DEF="LeftBall" translation="0.1 1.3 -3.55">
+         <Shape DEF="MyBall">
+          <Appearance>
+            <Material diffuseColor="0 0 1"></Material>
+           </Appearance>
+          <Sphere radius="0.05"></Sphere>
+         </Shape>
+        </Transform>
+         <Transform DEF="RightBall" translation="0.5 1.3 -3.55">
+        <Shape USE="MyBall"></Shape>
+       </Transform> 
+
+ <!--Нос снеговика-->  
+  <transform  rotation="2 0 0.3 1.15" translation="0.3 1.2 -3.4" >
+     <shape>
+       <appearance>
+          <Material diffuseColor="1 0 0"></Material>
+       </appearance>
+       <cone bottom="False" bottomRadius="0.15" height="0.5"></cone>
+     </shape>
+    </Transform>
+
+<!--Ведро на снеговике--> 
+  <Transform translation="0.3 1.5 -4">
+    <shape>
+       <Appearance>
+            <Material diffuseColor="0 0 1"></Material>
+       </Appearance>
+       <Cylinder radius="0.3" height="1"></Cylinder>
+       </Shape>
+      </Transform> 
+ </Anchor>
+ </Transform>
+
+ 
+ <TimeSensor DEF="TS_Sn" cycleInterval="5" loop="true"></TimeSensor>
+ <OrientationInterpolator DEF="OI_Sn" key="0, 0.5, 1" 
+ keyValue="0 1 0 0, 0 1 0 3.14, 0 1 0 6.28">
+ </OrientationInterpolator>
+ 
+<ROUTE fromNode="TS_Sn" fromField="fraction_changed" 
+ toNode="OI_Sn" toField="set_fraction">
+ </ROUTE>
+ 
+<ROUTE fromNode="OI_Sn" fromField="value_changed" 
+ toNode="Snowman" toField="set_rotation">
+ </ROUTE>
+
+ </Scene>
+
+ </X3D>
+</body>
+</html>

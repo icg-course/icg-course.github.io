@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang='ru'>
+  <head>  
+    <meta charset='utf-8' />
+      <title>Лабораторная работа 1</title>
+    <link rel='stylesheet' href='https://www.x3dom.org/download/x3dom.css' />
+    <script src='https://www.x3dom.org/download/x3dom.js'></script>
+  </head>
+  <body>
+    <h1>Борисов Максим Денисович В8441</h1>
+    <p> 
+       Торт на день рождения 
+   </p> 
+   <X3D style='left:0px; top:0px; width:100%; height:100%; border:none;'>
+        <scene> 
+
+<!--Тортик -->
+  <transform rotation='1 1.8 0.41 0.5' translation='1 -0.5 0'>
+            <shape> 
+               <appearance> 
+                     <material diffuseColor='0.4 0 0'></material>
+                     <TextureTransform scale='0.6 0.9'></TextureTransform>
+                     <ImageTexture url ='https://lamilanaise.com/wp-content/uploads/2017/07/farine-de-mais-enti%C3%A8re-bio-min-300x200.jpg' repeatS="True'
+repeatT="True"></ImageTexture>
+                </appearance> 
+               <Box size='4 1 4'></Box> 
+            </shape> 
+    
+<!--Свеча --> 
+    <transform translation='0 1 0'>
+           <shape> 
+               <appearance> 
+                    <material diffuseColor='0 0 0.4'></material> 
+               </appearance> 
+            <Cylinder  height='2' radius='0.1'></Cylinder>  
+           </shape> 
+    </transform> 
+
+<!--Пламя свечи -->
+    <transform translation='0 2.4 0'> 
+     <shape> 
+        <appearance> 
+             <material diffuseColor='1 0 0'></material> 
+        </appearance> 
+        <cone bottom="True" bottomRadius='0.1' height='0.8'></cone>
+     </shape> 
+    </transform> 
+
+<!--Украшение торта -->
+
+<!--Зеленый шарик -->
+    <transform translation='-1.5 0.7 1'> 
+      <shape> 
+        <appearance> 
+         <material diffuseColor='0 0.8 0'></material> 
+        </appearance> 
+        <sphere radius = '0.25'></sphere> 
+      </shape> 
+   </transform> 
+
+<!--Розовый шарик -->
+   <transform translation='-1.5 0.7 1.5'> 
+       <shape> 
+        <appearance> 
+           <material diffuseColor='0.8 0.3 0.3'></material> 
+        </appearance> 
+       <sphere radius = '0.25'></sphere> 
+       </shape> 
+   </transform>
+
+<!--Бирюзовый  шарик -->
+     <transform translation='-1.1 0.7 1.25'>
+      <shape> 
+        <appearance> 
+           <material diffuseColor='0 0.5 0.3'></material> 
+        </appearance> 
+        <sphere radius = '0.25'></sphere> 
+    </shape>  
+</transform> 
+
+<!--Подставка для торта -->
+  <transform rotation='1 -0.4 0.4 1.65'translation='0 -1.5 0'> 
+        <Shape>
+           <appearance>
+                <material diffuseColor='0.95 0.95 0.95' ></material>
+           </Appearance>
+         <torus innerRadius='1.1' outerRadius='1.1'></torus>
+      </Shape>
+ </transform
+
+<!--Надпись на торте -->
+    <transform translation='-1.5 0.51 -0.85' rotation='0.8 0 0 -1.6'>
+         <shape>
+             <appearance>
+                     <material diffuseColor='0.6 0.2 0.4'></material>
+             </appearance>
+            <text string='Happy' solid='false' >
+            <fontstyle size = '0.5' style = 'BOLDITALIC'></fontstyle>
+           </text>
+         </shape>
+     </transform>
+   <transform translation='-0.7 0.51 1.25' rotation='0.8 0 0 -1.6'>
+         <shape>
+             <appearance>
+                     <material diffuseColor='0.6 0.2 0.4'></material>
+             </appearance>
+                <text string='BirthDay' solid='false' >
+               <fontstyle size = '0.5' style = 'BOLDITALIC'></fontstyle>
+             </text>
+         </shape>
+      </transform>
+    </transform>
+      </X3D>
+    /Scene>
+ </body> 
+</html>
+
+ 
