@@ -1,0 +1,8 @@
+<Scene>
+ <Shape
+ <Box></Box>
+ <Appearance>
+ <Material></Material>
+ </Appearance>
+ </Shape>
+</Scene>
