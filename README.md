@@ -2,15 +2,32 @@
 
 ## 2021
 
+* Афанасьева Виктория ([5](https://icg-course.github.io/2021/VictoriaAfanaseva/5/))
+* Климов Михаил([5](https://icg-course.github.io/2021/Diran0/5/))
+* Клыков Михаил([5](https://icg-course.github.io/2021/KlykovMichael/5/))
+* Иванов Артём ([5](https://icg-course.github.io/2021/Sanders25/5/))
+* Кульченков Владимир ([5](https://icg-course.github.io/2021/zxcusername/5/))
+* Жданович Дмитрий ([5](https://icg-course.github.io/2021/DImasss-ik/5/))
 * Шевелин Евгений ([5](https://icg-course.github.io/2021/Coercivity/5/))
+* Бугаенко Данил ([5](https://icg-course.github.io/2021/Dan9sd/5/))
 * Запрудский Ярослав ([5](https://icg-course.github.io/2021/slavoyar/5/))
+* Перевалкина Екатерина ([5](https://icg-course.github.io/2021/perevall/5/))
+* Прокопьева Софья ([5](https://icg-course.github.io/2021/SonyaProkopeva/5/))
 * Холбаева Элина ([2](https://icg-course.github.io/2021/HolbaevaElina/2/), [5](https://icg-course.github.io/2021/HolbaevaElina/5/))
 * Волкова Полина ([5](https://icg-course.github.io/2021/skukota/5/))
+* Артемьев Илья ([5](https://icg-course.github.io/2021/Artemev/5/))
+* Ганиев Тимур ([5](https://icg-course.github.io/2021/timur505/5/))
 * Веселовский Марк ([5](https://icg-course.github.io/2021/markus696/5/))
 * Покидов Антон ([5](https://icg-course.github.io/2021/p3n3k/5/))
 * Залищук Александр ([5](https://icg-course.github.io/2021/jerrehy/5/))
 * Габсатарова Амина ([1](https://icg-course.github.io/2021/amisha777/1/))
 * Ненашев Сергей ([5](https://icg-course.github.io/2021/nenashev-sa/5/))
+* Халиков Рустам ([5](https://icg-course.github.io/2021/Gigansoo/5/))
+* Коваль Анна ([5](https://icg-course.github.io/2021/Gingstune/5/))
+* Головнин Павел ([5](https://icg-course.github.io/2021/originalsaapool/5/))
+* Шулындин Павел ([5](https://icg-course.github.io/2021/PavelShulindin/5/))
+* Лёгкий Владимир ([5](https://icg-course.github.io/2021/Vladimir-Legkii/5/))
+* Медведев Александр ([4](https://icg-course.github.io/2021/medvosa/4/))
 
 ## 2020
 
