@@ -2,6 +2,7 @@
 
 ## 2021
 
+* Афанасьева Виктория ([5](https://icg-course.github.io/2021/VictoriaAfanaseva/5/))
 * Климов Михаил([5](https://icg-course.github.io/2021/Diran0/5/))
 * Клыков Михаил([5](https://icg-course.github.io/2021/KlykovMichael/5/))
 * Иванов Артём ([5](https://icg-course.github.io/2021/Sanders25/5/))
@@ -20,12 +21,17 @@
 * Покидов Антон ([5](https://icg-course.github.io/2021/p3n3k/5/))
 * Залищук Александр ([5](https://icg-course.github.io/2021/jerrehy/5/))
 * Габсатарова Амина ([1](https://icg-course.github.io/2021/amisha777/1/))
+* Ненашев Сергей ([5](https://icg-course.github.io/2021/nenashev-sa/5/))
+* Халиков Рустам ([5](https://icg-course.github.io/2021/Gigansoo/5/))
 * Коваль Анна ([5](https://icg-course.github.io/2021/Gingstune/5/))
 * Головнин Павел ([5](https://icg-course.github.io/2021/originalsaapool/5/))
 * Шулындин Павел ([5](https://icg-course.github.io/2021/PavelShulindin/5/))
+* Паршин Никита ([5](https://icg-course.github.io/2021/pnv0711/5))
 * Лёгкий Владимир ([5](https://icg-course.github.io/2021/Vladimir-Legkii/5/))
+* Ларченков Дмитрий ([5](https://icg-course.github.io/2021/LarchenkovDmitry/5/))
 * Медведев Александр ([4](https://icg-course.github.io/2021/medvosa/4/))
 * Борисов Максим ([1](https://icg-course.github.io/2021/Maxim-1/1/), [2](https://icg-course.github.io/2021/Maxim-1/2/), [4](https://icg-course.github.io/2021/Maxim-1/4/))
+* Мартынов Владимир ([5](https://icg-course.github.io/2021/Vladimir0926/5/))
 
 ## 2020
 
