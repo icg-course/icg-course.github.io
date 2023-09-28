@@ -30,6 +30,7 @@
 * Лёгкий Владимир ([5](https://icg-course.github.io/2021/Vladimir-Legkii/5/))
 * Ларченков Дмитрий ([5](https://icg-course.github.io/2021/LarchenkovDmitry/5/))
 * Медведев Александр ([4](https://icg-course.github.io/2021/medvosa/4/))
+* Борисов Максим ([1](https://icg-course.github.io/2021/Maxim-1/1/), [2](https://icg-course.github.io/2021/Maxim-1/2/), [4](https://icg-course.github.io/2021/Maxim-1/4/))
 * Мартынов Владимир ([5](https://icg-course.github.io/2021/Vladimir0926/5/))
 
 ## 2020
